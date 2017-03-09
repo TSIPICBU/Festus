@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="6" failures="0" disabled="0" errors="0" timestamp="2017-02-17T16:30:13" time="0.007" name="AllTests">
+  <testsuite name="FactorialTest" tests="3" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="Negative" status="run" time="0" classname="FactorialTest" />
+    <testcase name="Zero" status="run" time="0" classname="FactorialTest" />
+    <testcase name="Positive" status="run" time="0" classname="FactorialTest" />
+  </testsuite>
+  <testsuite name="IsPrimeTest" tests="3" failures="0" disabled="0" errors="0" time="0.004">
+    <testcase name="Negative" status="run" time="0" classname="IsPrimeTest" />
+    <testcase name="Trivial" status="run" time="0" classname="IsPrimeTest" />
+    <testcase name="Positive" status="run" time="0" classname="IsPrimeTest" />
+  </testsuite>
+</testsuites>
