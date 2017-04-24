@@ -83,6 +83,7 @@ Nos_Mm_MemComp( T_BYTE *pbySrc1Address_p,
 	//START(R1-0CC-0D0-014-000)
 	T_USHORT* pusSrc1Address;//[[R1-0CC-0D0-014-000]]
 	T_USHORT* pusSrc2Address;
+	T_USHORT usLength;
 
 	/// - 2. NVM Parityã‚¨ãƒ©ãƒ¼ç™ºç”Ÿãƒ•ãƒ©ã‚°ã‚’åˆæœŸåŒ–
 	/** Not supported by UIM platform */
